@@ -12,9 +12,12 @@ OpenLinks 是一个轻量级的 Chrome 扩展程序，在新窗口中以标签�
 ![筛选条件](asset/filtering.gif)
 
 ## 安装
-方法一：
-从edge浏览器的扩展程序商店安装 （即将上线）
-名称：批量打开链接
+方法一(推荐)：
+
+从edge浏览器的扩展程序商店安装 
+
+[https://microsoftedge.microsoft.com/addons/detail/%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E9%93%BE%E6%8E%A5/gekkghdodafmnoafinjnfcimodgffofk](https://microsoftedge.microsoft.com/addons/detail/%E6%89%B9%E9%87%8F%E6%89%93%E5%BC%80%E9%93%BE%E6%8E%A5/gekkghdodafmnoafinjnfcimodgffofk)
+
 
 方法二：
 1. 下载或克隆本项目到本地
